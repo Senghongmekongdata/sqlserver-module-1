@@ -1,0 +1,15 @@
+# Now take a look on the dataset that has been provided 
+In the module 2 chapter 2, you have learned alread about the 4 phase design step, so now it is time for you to apply all your skill here:
+1. Conceptual 
+  - Think about how many entities (tables) should you have in this model.
+  - Raise all of them by drawing it 
+  - 
+2. Logical 
+  - Decide what are the attributes that will be put in each table.
+  - Decide how these entities and relationships map to tables.
+3. Nomalization
+  - We will skip this as we haven't learned yet. Will get back in chapter 3
+4. Physical 
+  - Now it time for you to apply the constrain in each table (Null, Primary Key, Foriegn Key, etc.)
+  - Also specify the data type in each attribute as well
+  
